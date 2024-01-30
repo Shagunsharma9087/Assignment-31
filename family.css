@@ -1,0 +1,54 @@
+h1{
+    color: gold;
+    text-align: center;
+}
+h2
+{
+    color: gold;
+}
+body
+{
+    background-color: rgb(0,0,0);
+    background-image:  url(/HD-wallpaper-chhota-bheem-chutki-chota-cartoon-toon-jaggu-dholakpur-kalia-PhotoRoom.png);
+    background-repeat: no-repeat;
+    background-size:20%;
+    background-position-x: center;
+    background-position-y: 200px;
+}
+#navelement{
+    margin: 2px;
+    font-size: large;
+    padding: left 20px;;
+
+}
+p,ul,label{
+    color: goldenrod;
+}
+tr,table,td,th{
+    border: 2px solid gold;
+    border-collapse: collapse;
+    color: gold;
+    padding: 10px;
+}
+#sec2,#sec1,#sec3,#Sec4{
+    padding-left: 60px;
+    padding-top: 20px;
+}
+#im{
+    display: flex;
+    overflow-x: scroll;
+    width:95%;
+}
+#im > div{
+    margin: 90px;
+}
+footer{
+    color: gold;
+    text-align: center;
+}
+.image{
+    margin: 2px;
+}
+nav{
+    margin: 23px;
+}
